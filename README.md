@@ -43,7 +43,7 @@ Applied **three different filters** on `cameraman.jpeg`:
 #### Canny Edge Detection Comparison
 - Custom Implementation vs. OpenCV's cv2.Canny().
 #### - Observations:
-        - Both methods successfully detect edges, but parameter tuning impacts performance.
+- Both methods successfully detect edges, but parameter tuning impacts performance.
 ### Effect of Different Filters
 - Gaussian blur provides better smoothing compared to average and median filters.
 - Increasing the kernel size makes the image smoother but reduces detail.
