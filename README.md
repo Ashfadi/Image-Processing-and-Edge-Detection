@@ -1,6 +1,6 @@
 # 📸 Image Processing and Edge Detection
 
-This repository contains **image processing techniques**, including **Canny Edge Detection, Image Smoothing, and Fourier Transform Noise Removal**, implemented as part of **CSE 6367 Assignment 1**.
+This repository contains **image processing techniques**, including **Canny Edge Detection, Image Smoothing, and Fourier Transform Noise Removal**, implemented as part of **Computer Vision Assignment 1**.
 
 ---
 
